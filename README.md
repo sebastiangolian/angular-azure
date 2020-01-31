@@ -2,7 +2,7 @@
 Test angular app with azure deploy
 
 ## Test app 
-[angular-azure](https://sebastiangolian.github.io/angular-azure)
+[angular-azure](https://sebastian-golian-angular-azure.azurewebsites.net)
 
 ## Getting started
 ```bash
